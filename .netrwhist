@@ -1,7 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/Users/kevinmooney/Work/testing'
-let g:netrw_dirhist_2='/Users/kevinmooney/.vim/bundle/fugitive'
-let g:netrw_dirhist_3='/Users/kevinmooney/Work/testing'
-let g:netrw_dirhist_4='/Users/kevinmooney/.vim'
-let g:netrw_dirhist_5='/Users/kevinmooney/.vim/pyflakes-pathogen'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/Kevin/.virtualenv/webcubecloud-4.3/src/django-webcube'
+let g:netrw_dirhist_2='/Users/Kevin/eclipse-workspace/timetable/.settings'
+let g:netrw_dirhist_3='/Users/Kevin/.virtualenv/webcubecloud-4.3/src/django-webcube/webcube/webcubecore/templates/admin'
+let g:netrw_dirhist_4='/Users/Kevin/.virtualenv/webcubecloud-4.3/src/django-webcube/webcube/webcubecore/templates/admin/edit_inline'
+let g:netrw_dirhist_5='/Users/Kevin/.virtualenv/webcubecloud-4.3/src/django-webcube/webcube'
+let g:netrw_dirhist_6='/Users/Kevin/.virtualenv/webcubecloud-4.3/src/django-webcube/webcube/videos'
+let g:netrw_dirhist_7='/Users/Kevin/.virtualenv/webcubecloud-4.3/src/django-webcube/webcube'
+let g:netrw_dirhist_8='/Users/Kevin/.virtualenv/webcubecloud-4.3/src/django-webcube'
+let g:netrw_dirhist_9='/Users/Kevin/.virtualenv/webcubecloud-4.3/src/webcube-productselector'
