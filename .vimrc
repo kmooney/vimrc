@@ -7,8 +7,8 @@ let g:syntastic_always_populate_loc_list = 1
 let g:syntastic_check_on_open=1
 let g:syntastic_enable_signs=1
 let g:syntastic_auto_loc_list=1
-let g:syntastic_error_symbol = '✗'
-let g:syntastic_warning_symbol = '!'
+let g:syntastic_error_symbol = '!!'
+let g:syntastic_warning_symbol = 'WW'
 
 
 
@@ -22,8 +22,6 @@ set smarttab
 set expandtab
 set smartindent
 set completeopt=menuone,longest,preview
-set statusline+=%{fugitive#statusline()}
-set statusline+=" - "
 set statusline+=%f
 set laststatus=2
 set number
